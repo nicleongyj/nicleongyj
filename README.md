@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello! I am Nicholas 👋
 
+- I am a Y2 NUS Computer Science undergraduate 🔭
+- I’m currently learning about ML & CV 🌱
+- You can contact me at nicholasleong.work@gmail.com ✉️  
 <!--
 **nicleongyj/nicleongyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
