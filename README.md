@@ -1,6 +1,6 @@
 ## Hello! I am Nicholas 👋
 
-- I am a Y2 NUS Computer Science undergraduate 🔭
+- I am a Y3 NUS Computer Science undergraduate 🔭
 - I’m currently learning about ML & CV 🌱
 - You can contact me at nicholasleong.work@gmail.com ✉️  
 <!--
